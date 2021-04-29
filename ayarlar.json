@@ -1,0 +1,21 @@
+{
+  "prefix": "botunuzun ön eki",
+  "sunucu": "sunucu idniz",
+  "token": "token",
+  "botdurum": "botun durumu",
+  "kurallar": "kurallar kanal id",
+  "taglı": "taglı rol id",
+  "botkanal": "sesli id",
+  "kanal": "kayıt kanalınız",
+  "log": "log kanalınız",
+  "tag": "tagınız",
+  "kayıtsız": "kayıtsız rol id",
+  "erkek2": "isteğe bağlı erkek2 rol id",
+  "kız2": "isteğe bağlı kız2 rol id",
+  "kız": "kız rol id",
+  "erkek": "erkek rol id",
+  "erkek3": "isteğe bağlı erkek3 rol id",
+  "kız3": "isteğe bağlı kız3 rol id",
+  "yetkili": "kayıtçı rol id",
+  "suphelicezali": "cezalı yada şüpheli rol id"
+}
