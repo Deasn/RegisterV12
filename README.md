@@ -1,2 +1,2 @@
-# RegisterV12
-Deasn was here?
+Herşey ayarlar.json dosyasından ayarlanacaktır.
+İyi kullanımlar!
